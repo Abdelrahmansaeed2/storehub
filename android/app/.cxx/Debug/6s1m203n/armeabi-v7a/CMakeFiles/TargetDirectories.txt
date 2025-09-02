@@ -1,0 +1,2 @@
+/Users/abdelrahmansaeed/Downloads/storehub/android/app/.cxx/Debug/6s1m203n/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/abdelrahmansaeed/Downloads/storehub/android/app/.cxx/Debug/6s1m203n/armeabi-v7a/CMakeFiles/rebuild_cache.dir
