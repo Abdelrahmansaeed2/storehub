@@ -277,7 +277,7 @@ class _CategoryScreenState extends State<CategoryScreen> {
       appBar: CustomAppBar(
         variant: CustomAppBarVariant.detail,
         title: _categoryName,
-        showBackButton: true,
+        showBackButton: false,
         onBackPressed: () => Navigator.pop(context),
         actions: [
           IconButton(
